@@ -33,4 +33,4 @@ public class StringToBasic{
         //字符串转化成为字符char-》就是将字符串第一个字符得到
         System.out.println(s5.charAt(0));
 	}
-}
+}9
